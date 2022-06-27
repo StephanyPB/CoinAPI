@@ -10,9 +10,7 @@ namespace Models{
         public String? ImagenUrl { get; set; }
         
         public Coins()
-        {
-            
-        }
+        {}
     }
 }
    
