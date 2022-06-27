@@ -9,8 +9,7 @@ namespace Models{
         public double? Valor { get; set; }
         public String? ImagenUrl { get; set; }
         
-        public Coins()
-        {}
+        public Coins(){}
     }
 }
    
