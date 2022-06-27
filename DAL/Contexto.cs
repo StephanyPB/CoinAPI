@@ -1,8 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using Models;
 
-namespace DAL
-{
+namespace DAL{
 public class Contexto: DbContext
 {
     public DbSet<Coins> Coins{get; set;}

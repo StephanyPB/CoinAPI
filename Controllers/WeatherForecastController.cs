@@ -26,6 +26,7 @@ public class CoinsController : ControllerBase
 
     [HttpPost]
     public async Task<ActionResult<Coins>> PostCoin(Coins coins){
+        
         _contexto.Coins.Add(coins);
         await _contexto.SaveChangesAsync();
         return CreatedAtAction(nameof(PostCoin), coins);  
