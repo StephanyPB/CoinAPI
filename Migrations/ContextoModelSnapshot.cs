@@ -41,7 +41,7 @@ namespace CoinApi.Migrations
                         {
                             MonedaId = 1,
                             Descripcion = "Bitcoin",
-                            ImagenUrl = "https://png.monster/bitcoin-icon-3/ ",
+                            ImagenUrl = "https://cdn.pixabay.com/photo/2021/04/30/16/47/btc-logo-6219386_960_720.png",
                             Valor = 10000.0
                         },
                         new
@@ -69,21 +69,21 @@ namespace CoinApi.Migrations
                         {
                             MonedaId = 5,
                             Descripcion = "Binance Coin",
-                            ImagenUrl = "https://www.pngwing.com/es/free-png-masau",
+                            ImagenUrl = "https://thumbs.dreamstime.com/z/s%C3%ADmbolo-de-oro-del-binance-crypto-la-moneda-aislado-en-el-fondo-blanco-137343964.jpg",
                             Valor = 6000.0
                         },
                         new
                         {
                             MonedaId = 6,
                             Descripcion = "Repple",
-                            ImagenUrl = "https://www.pngwing.com/en/free-png-afkuk",
+                            ImagenUrl = "https://previews.123rf.com/images/ryzhi/ryzhi1712/ryzhi171200070/91650546-moneda-de-oro-de-la-moneda-de-crypto-con-s%C3%ADmbolo-de-la-ondulaci%C3%B3n-del-oro-en-el-anverso-aislado-en-e.jpg?fj=1",
                             Valor = 5000.0
                         },
                         new
                         {
                             MonedaId = 7,
                             Descripcion = "Dogecoin",
-                            ImagenUrl = "https://www.pngwing.com/en/free-png-kgbjx",
+                            ImagenUrl = "https://previews.123rf.com/images/architect9/architect92004/architect9200400120/145157172-el-fondo-de-criptomonedas-es-perfecto-para-cualquier-tipo-de-presentaci%C3%B3n-de-noticias-o-informaci%C3%B3n-.jpg?fj=1",
                             Valor = 4000.0
                         },
                         new

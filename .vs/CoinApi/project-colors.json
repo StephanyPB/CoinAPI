@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dbc91f07-ffc8-46ea-88b2-bb044641c8a8": {
+      "ProjectGuid": "dbc91f07-ffc8-46ea-88b2-bb044641c8a8",
+      "DisplayName": "CoinApi",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

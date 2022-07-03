@@ -15,7 +15,7 @@ public class Contexto: DbContext
             
             new Coins(){
                 MonedaId = 1,Descripcion = "Bitcoin",
-                Valor = 10000, ImagenUrl ="https://png.monster/bitcoin-icon-3/ "
+                Valor = 10000, ImagenUrl ="https://cdn.pixabay.com/photo/2021/04/30/16/47/btc-logo-6219386_960_720.png"
             },
              new Coins(){
                 MonedaId = 2,Descripcion = "Ethereum",
@@ -31,15 +31,15 @@ public class Contexto: DbContext
             },
              new Coins(){
                 MonedaId = 5, Descripcion = "Binance Coin",
-                Valor = 6000,  ImagenUrl ="https://www.pngwing.com/es/free-png-masau"
+                Valor = 6000,  ImagenUrl ="https://thumbs.dreamstime.com/z/s%C3%ADmbolo-de-oro-del-binance-crypto-la-moneda-aislado-en-el-fondo-blanco-137343964.jpg"
             },
              new Coins(){
                 MonedaId = 6,Descripcion = "Repple",
-                Valor = 5000, ImagenUrl ="https://www.pngwing.com/en/free-png-afkuk"
+                Valor = 5000, ImagenUrl ="https://previews.123rf.com/images/ryzhi/ryzhi1712/ryzhi171200070/91650546-moneda-de-oro-de-la-moneda-de-crypto-con-s%C3%ADmbolo-de-la-ondulaci%C3%B3n-del-oro-en-el-anverso-aislado-en-e.jpg?fj=1"
             },
              new Coins(){
                 MonedaId = 7,Descripcion = "Dogecoin",
-                Valor = 4000, ImagenUrl ="https://www.pngwing.com/en/free-png-kgbjx"
+                Valor = 4000, ImagenUrl ="https://previews.123rf.com/images/architect9/architect92004/architect9200400120/145157172-el-fondo-de-criptomonedas-es-perfecto-para-cualquier-tipo-de-presentaci%C3%B3n-de-noticias-o-informaci%C3%B3n-.jpg?fj=1"
             },
              new Coins(){
                 MonedaId = 8, Descripcion = "USDCoin",
